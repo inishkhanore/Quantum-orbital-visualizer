@@ -90,5 +90,6 @@ The original C++ version uses OpenGL/GLFW for real-time interactive 3D rendering
 - No real-time rotation (but you can click and drag the matplotlib 3D window to rotate)
 - No raytracer mode
 - Slower rendering for very high particle counts
+- Instead of using SciPy this version will mannually define functions from Quantum Mechanics Concepts and Applications Second Edition Nouredine Zettili
 
 The physics and sampling logic are identical.
